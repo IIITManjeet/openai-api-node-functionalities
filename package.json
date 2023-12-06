@@ -1,0 +1,17 @@
+{
+  "name": "ai-node",
+  "version": "1.0.0",
+  "description": "LLM model",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manjeet Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.202",
+    "openai": "^4.20.1"
+  }
+}
